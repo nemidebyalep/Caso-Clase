@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background-color: antiquewhite;
+}
+body{
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    padding-top: 30px;
+    background-color: aquamarine;
+    margin-top: 20px;
+
+}
+form{
+    width: 400px;
+    height: 30px;
+    padding-left: 10px;
+}
+div{
+    width: 400px;
+   text-align: center;
+   margin-top: 20px;
+}
+.d{
+    width: 100px;
+    height: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.e{
+    width: 200px;
+    height: 20px;
+}
